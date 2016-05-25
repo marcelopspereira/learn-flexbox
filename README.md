@@ -1,5 +1,5 @@
 # learn-flexbox
-Learn how to use the new layout mode "flexbox" and the CSS Flexible Boxes Layout specification.
+Learn how to use the new layout mode "flexbox" the CSS Flexible Boxes Layout specification.
 
 
 ## Resources
